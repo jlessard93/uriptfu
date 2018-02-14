@@ -1,0 +1,40 @@
+p.footer {
+	font-size: xx-small;
+	font-style: italic;
+}
+
+p.bold {
+	font-weight:bold;
+}
+
+body {
+	font: 80% Verdana, Arial, Helvetica, sans-serif;
+	color: #660000;
+	background-color: #CCCCCC;
+}
+
+a:link {
+	text-decoration: none;
+	color: #990000;
+}
+a:visited {
+	text-decoration: none; 
+	color: #990000; 
+}
+a:hover {
+	text-decoration: none;
+	color: #FFC;
+}
+a:active {
+	text-decoration: none;
+	color: #FFC;
+}
+
+ul {
+	margin:0;
+	padding:0 0 0 1.25em;
+}
+li {
+	type:disc;
+} 
+
