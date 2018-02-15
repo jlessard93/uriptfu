@@ -26,7 +26,7 @@
                     <a href="files/constitution_and_by_laws.pdf" target="_blank">Constitution &amp; By-Laws</a>
                 </li>
                 <li>
-                    <a href="files/contract_2010_2012.pdf" target="_blank">Contract 2010-2012</a>
+                    <a href="files/ptfu_contract.pdf" target="_blank">Contract 2010-2012</a>
                 </li>
                 <li>
                     <a href="faq.php">FAQ</a>

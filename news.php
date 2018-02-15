@@ -10,8 +10,10 @@
     
 <h3 class="header" style="color:rgb(146, 65, 80); padding-bottom:10px;">NEWSLETTERS</h3>
 
-    <a href="newsletters/e_news_oct_2014.pdf" target="_blank">October 2014</a><br><br>
+    <a href="newsletters/e_news_spring_2015.pdf" target="_blank">Spring 2015</a><br><br>
+    <a href="newsletters/e_news_fall_2015.pdf" target="_blank">Fall 2015</a><br><br>
     <a href="newsletters/e_news_april_2014.pdf" target="_blank">April 2014</a><br><br>
+    <a href="newsletters/e_news_oct_2014.pdf" target="_blank">October 2014</a><br><br>
     <a href="newsletters/e_news_sep_2013.pdf" target="_blank">September 2013</a><br><br>
     <a href="newsletters/e_news_feb_2013.pdf" target="_blank">February 2013</a><br><br>
     <a href="newsletters/e_news_dec_2012.pdf" target="_blank">December 2012</a><br><br>
