@@ -23,7 +23,7 @@
                     <a href="files/ptfu_welcome_letter.pdf" target="_blank">Welcome!</a>
                 </li>
                 <li>
-                    <a href="files/constitution_and_by_laws.pdf" target="_blank">Constitution &amp; By-Laws</a>
+                    <a href="files/CONSTITUTION.BY-LAWS_AMENDED.DECEMBER.2017.pdf" target="_blank">Constitution &amp; By-Laws</a>
                 </li>
                 <li>
                     <a href="files/URI_PTFU_contract_2017-2020.pdf" target="_blank">Contract 2017-2020</a>
