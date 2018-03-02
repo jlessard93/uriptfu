@@ -26,7 +26,7 @@
                     <a href="files/constitution_and_by_laws.pdf" target="_blank">Constitution &amp; By-Laws</a>
                 </li>
                 <li>
-                    <a href="files/ptfu_contract.pdf" target="_blank">Contract 2010-2012</a>
+                    <a href="files/URI_PTFU_contract_2017-2020.pdf" target="_blank">Contract 2017-2020</a>
                 </li>
                 <li>
                     <a href="faq.php">FAQ</a>
@@ -47,7 +47,7 @@
                     <a href="#"><strong>Forms and Links</strong></a>
                 </li>
                 <li>
-                	<a href="files/level_advance_with_info.pdf" target="_blank">Level Advancement Form</a>
+                	<a href="files/Salary.Advancement.Info.2017.pdf" target="_blank">Level Advancement Form</a>
                 </li>
                 <li>
                 	<a href="files/course_request_availability_form.pdf" target="_blank"> Availability Form</a>
