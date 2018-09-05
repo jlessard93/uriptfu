@@ -44,7 +44,7 @@
                 University of Rhode Island<br>
                 Kingston, RI 02881<br><br>
                 <i class="fa fa-phone"></i>  Phone: 401-874-4481<br>
-                <i class="fa fa-envelope-o"></i>  Email: <a href="mailto:uriptfu@etal.uri.edu">uriptfu@etal.uri.edu</a><br>
+                <i class="fa fa-envelope-o"></i>  Email: <a href="mailto:uri.ptfu@gmail.com">uri.ptfu@gmail.com</a><br>
                 <i class="fa fa-facebook-square" style="padding-right:3px;"></i>  <a href="https://www.facebook.com/URI.PTFU">Like Us On Facebook!</a><br><br>
               </div>
             </div>
@@ -61,7 +61,7 @@
             <strong>At Large</strong>: Keith Labelle<br>
             <strong>Past President</strong>: Timothy Tierney<br>
         	<strong>Executive Director</strong>: Patricia Maguire<br>
-            <strong>Senior Consultant</strong>: Dorothy F. Donnelly, PhD
+            <strong>Senior Representative</strong>: Dorothy F. Donnelly, PhD
        </p>
        </div>
        </div>

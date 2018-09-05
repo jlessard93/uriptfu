@@ -34,12 +34,9 @@
                 <li>
                     <a href="files/fact_sheet.pdf" target="_blank">URI PTFU Fact Sheet</a>
                 </li>
-                <li>
-                    <a href="http://www.aaup.org/AAUP/involved/benes/" target="_blank">Membership Benefits</a>
-                </li>
-                <li>
-                    <a href="http://www.aaup.org/reports-publications" target="_blank">AAUP Publications</a>
-                </li>
+	            <li>
+		            <a href="files/Contract_gains_2017_2020.pdf" target="_blank">PTFU Contract Gains 2017-2020</a>
+	            </li>
                 <li>
                     <a href="news.php">News</a>
                 </li>
@@ -62,16 +59,10 @@
                 	<a href="files/part_time_in_service_correction_request_form.pdf" target="_blank">Time in Service Correction Form</a>
                 </li>
                 <li>
-                	<a href="files/aaup_application_form.pdf" target="_blank">Membership Application</a>
+                	<a href="files/membership_authorization_card.pdf" target="_blank">Membership Application</a>
                 </li>
                 <li>
                 	<a href="http://www.aaup.org/" target="_blank">AAUP National</a>
-                </li>
-                <li>
-                	<a href="http://www.aaupcbc.org/" target="_blank">AAUP/CBC</a>
-                </li>
-                <li>
-                	<a href="http://www.aaup.org/about/aaup-chapter-websites" target="_blank">AAUP Chapter Websites</a>
                 </li>
                 <li>
                 	<a href="http://www.uri.edu/" target="_blank" style="margin-bottom:20px;">University of Rhode Island</a>
