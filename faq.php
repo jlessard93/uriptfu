@@ -18,7 +18,7 @@
     <strong> If I am included in the Bargaining Unit am I also a member of the URI/PTFU?  </strong>
     <p>No.  Although you are represented by URI/PTFU, you are not automatically a member in the PTFU.  Membership in PTFU requires that you sign a membership form to become a member of the American Association of University Professors (AAUP).  Membership in the national organization carries with it your membership in the local URI PTFU chapter.  Thus, when you sign a membership form to join the AAUP you automatically become a member of
     URI PTFU.  This membership entitles PTFU chapter members to participate in local chapter activities including: the right to hold union office, the right to vote on internal union matters, the right to serve on union standing and ad hoc committees, the right to participate in internal union matters, and the right to participate in all membership voting. Membership in the national AAUP also carries with it membership only benefits,
-    such as, insurance programs, financial services, and employment liability insurance. To fill out an application form, <a href="files/aaup_application_form.pdf" target="_blank">click here</a>.    </p>
+    such as, insurance programs, financial services, and employment liability insurance. To fill out a membership card, <a href="files/membership_authorization_card.pdf" target="_blank">click here</a>.    </p>
     <strong> Can I review my personnel file?  </strong>
     <p>Article VIII of the contract provides the opportunity for you to review your personnel file at any time.  You are entitled to make copies of any documents in the file and you may also add information or documents to the file.  If you wish, you may ask a PTFU representative to be present when you review your file.</p>
     <strong> How is my salary determined?  </strong>
@@ -35,9 +35,9 @@
     <p>Part-time faculty have formed collective bargaining unions across the country including: City University of New York, Emerson College in Boston, University of Maine, New York University, Rutgers, University of San Francisco, Roosevelt University in Chicago, Columbia College, the New School, George Washington University, Syracuse University, and many others.</p>
     <strong> How can I help support the URI Part-Time Faculty United union (URI/PTFU)?  </strong>
     <p>The strength of the URI Part-Time Faculty United union rests with its membership.  We urge you to become an active participant in union activities.  Only union members can cast ballots in union officer elections, contract ratification votes, and run for union office.  If you want to vote on union issues, you have to be a paid member of the Union.  If you are not a voting member of the URI PTFU, please join today.
-    The application form is available <a href="files/aaup_application_form.pdf" target="_blank"> here</a>. </p>
+    The membership card is available <a href="files/membership_authorization_card.pdf" target="_blank"> here</a>. </p>
     <strong> Where is the URI PTFU office located?  </strong>
-    <p>The PTFU Union office is located in Room 119, Rodman Hall, 94 W Alumni Avenue on the main campus in Kingston.  The PTFU also holds regular office hours at CCE on the Providence campus.  You may contact the PTFU office at: Tel: 874-4481; Email: <a href="mailto:uriptfu@etal.uri.edu">uriptfu@etal.uri.edu</a></p>
+    <p>The PTFU Union office is located in Room 119, Rodman Hall, 94 W Alumni Avenue on the main campus in Kingston. You may contact the PTFU office at: Tel: 874-4481; Email: <a href="mailto:uri.ptfu@gmail.com">uri.ptfu@gmail.com</a></p>
     <p>&nbsp;</p>
     
 <!--    <center><a href="index.html">Home</a> | <a href="#top">Top</a></center>
