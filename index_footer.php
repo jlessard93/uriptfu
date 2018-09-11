@@ -1,16 +1,17 @@
 <div id="footer">
-       		<div class="container">
-       			<p class="text-muted" style="text-align:center;">THIS WEBSITE IS PROVIDED BY THE URI PTFU AS A SERVICE TO ITS MEMBERS. <br>EVERY EFFORT IS MADE TO ENSURE THAT THE INFORMATION IS CURRENT AND ACCURATE.<br> UPDATED ON: SEPTEMBER 4, 2018.
-                <!--<br><a href="#menu-toggle" id="menu-toggle">TOGGLE SIDEBAR</a>-->
-                </p>
-       		</div>
-       </div>
+	<div class="container">
+		<p class="text-muted" style="text-align:center;">
+			THIS WEBSITE IS PROVIDED BY THE URI PTFU AS A SERVICE TO ITS MEMBERS. <br>
+			EVERY EFFORT IS MADE TO ENSURE THAT THE INFORMATION IS CURRENT AND ACCURATE.<br>
+			UPDATED ON: SEPTEMBER 10<sup>th</sup>, 2018.
+			<!--<br><a href="#menu-toggle" id="menu-toggle">TOGGLE SIDEBAR</a>-->
+		</p>
+	</div>
+</div>
          
       
       </div><!--/right-->
-      
   	</div><!--/row-->
-
 </div><!--/container-->
 
     <!-- jQuery -->
@@ -26,6 +27,5 @@
         $("#wrapper").toggleClass("toggled");
     });
     </script>
-    
 </body>
 </html>
