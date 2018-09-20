@@ -56,16 +56,13 @@
                 	<a href="files/grievance_procedure_time_frame_2014.pdf" target="_blank">Grievance Procedure Time Frame</a>
                 </li>
                 <li>
-                	<a href="files/part_time_in_service_correction_request_form.pdf" target="_blank">Time in Service Correction Form</a>
-                </li>
-                <li>
                 	<a href="files/membership_authorization_card.pdf" target="_blank">Membership Application</a>
                 </li>
                 <li>
                 	<a href="http://www.aaup.org/" target="_blank">AAUP National</a>
                 </li>
                 <li>
-                	<a href="http://www.uri.edu/" target="_blank" style="margin-bottom:20px;">University of Rhode Island</a>
+                	<a href="http://www.uri.edu/" target="_blank" style="margin-bottom:50%;">University of Rhode Island</a>
                 </li>
             </ul>
         </div>
