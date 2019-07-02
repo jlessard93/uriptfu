@@ -1,4 +1,4 @@
-﻿<?php include 'sidebar.php'; ?>
+<?php include 'sidebar.php'; ?>
 <div class="col-md-9">
         <h2 id="sec0" style="color:rgb(146, 65, 80);"><i>University of Rhode Island Part&ndash;Time Faculty United</i></h2>
         
@@ -55,9 +55,9 @@
               <div class="panel-heading"><h3 style="color:rgb(146, 65, 80);">EXECUTIVE COMMITTEE (2014-2016)</h3></div>
               <div class="panel-body">
         	<strong>President</strong>: Edward S. Inman III<br>
-            <strong>Vice President</strong>: Marilyn Donahue<br>
+            <strong>Vice President</strong>: Irene McIvor Mason<br>
             <strong>Secretary/Treasurer</strong>: Olga Ruiz de Panciera<br>
-            <strong>At Large</strong>: Robert Leuci - <a href="files/in_memoriam_robert_leuci.pdf" target="_blank">In Memoriam</a><br>
+            <strong>At Large</strong>: Ann Salzarulo-McGuigan<br>
             <strong>At Large</strong>: Keith Labelle<br>
             <strong>Past President</strong>: Timothy Tierney<br>
         	<strong>Executive Director</strong>: Patricia Maguire<br>
