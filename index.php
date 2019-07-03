@@ -52,7 +52,7 @@
         </div>        
         <div class="col-md-12">
         <div class="panel panel-default">
-              <div class="panel-heading"><h3 style="color:rgb(146, 65, 80);">EXECUTIVE COMMITTEE (2014-2016)</h3></div>
+              <div class="panel-heading"><h3 style="color:rgb(146, 65, 80);">EXECUTIVE COMMITTEE (2019-2021)</h3></div>
               <div class="panel-body">
         	<strong>President</strong>: Edward S. Inman III<br>
             <strong>Vice President</strong>: Irene McIvor Mason<br>
