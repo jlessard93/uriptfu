@@ -9,8 +9,6 @@
 	<em>PTFU</em><br>
 	<em>Frequently Asked Questions</em></h2><br> 
     
-    <strong>What is the relationship between the URI Part-Time Faculty United/AAUP and the national American Association of University Professors (AAUP)?</strong>
-    <p>The official name of our Union is URI Part-Time Faculty United, American Association of University Professors (URI/PTFU/AAUP).  We are an independent stand-alone union with an affiliation with the national AAUP.  The URI PTFU makes all its own decisions and is not subject to any oversight by the national AAUP.</p>
     <strong> Are we part of the URI full-time faculty union?</strong>
     <p>No.  URI part-time faculty have their own union, with their own collective bargaining agreement, constitution and officers.  The part-time faculty union and the full-time faculty union are two independent chapters.</p>
     <strong> Are all part-time faculty at URI included in the bargaining unit?</strong>
