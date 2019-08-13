@@ -29,7 +29,7 @@
     <!-- Sidebar -->
     <div id="sidebar-wrapper">
         <ul class="sidebar-nav">
-            <img src="images/ptfulogo_rev.jpg" alt="" width="200" height="200" hspace="25" vspace="10">
+            <img src="images/ptfulogo_rev.png" alt="" width="200" height="200px" hspace="25" vspace="10">
             <li class="sidebar-brand" style="padding-left:45px;">
                 <a href="index.php"><strong>Home</strong></a>
             </li>
@@ -37,7 +37,10 @@
                 <a href="files/ptfu_welcome_letter.pdf" target="_blank">Welcome!</a>
             </li>
             <li>
-                <a href="files/CONSTITUTION.BY-LAWS_AMENDED.DECEMBER.2017.pdf" target="_blank">Constitution &amp; By-Laws</a>
+                <a href="index.php" target="_blank">JOIN US</a>
+                </li>
+                <li>
+                    <ahref="files/CONSTITUTION.BY-LAWS_AMENDED.DECEMBER.2017.pdf" target="_blank">Constitution &amp; By-Laws</a>
             </li>
             <li>
                 <a href="files/URI_PTFU_contract_2017-2020.pdf" target="_blank">Contract 2017-2020</a>
@@ -58,10 +61,7 @@
                 <a href="#"><strong>Forms and Links</strong></a>
             </li>
             <li>
-                <a href="files/salary_advancement_form_with_info.pdf" target="_blank">Level Advancement Form</a>
-            </li>
-            <li>
-                <a href="files/course_request_availability_form.pdf" target="_blank"> Availability Form</a>
+                <a href="files/salary_advancement_form_with_info.pdf" target="_blank">Level Advancement Information</a>
             </li>
             <li>
                 <a href="files/uri_ptfu_grievance_form.pdf" target="_blank">Grievance Form</a>
@@ -73,10 +73,10 @@
                 <a href="files/membership_authorization_card.pdf" target="_blank">Membership Application</a>
             </li>
             <li>
-                <a href="http://www.aaup.org/" target="_blank">AAUP National</a>
+                <a href="http://www.uri.edu/" target="_blank">University of Rhode Island</a>
             </li>
             <li>
-                <a href="http://www.uri.edu/" target="_blank" style="margin-bottom:50%;">University of Rhode Island</a>
+                <a href="https://jobs.uri.edu/" target="_blank" style="margin-bottom:100%;">URI Lecturer & Full-Time Faculty <span style="padding-left: 8.5%">Positions Available</span></a>
             </li>
         </ul>
     </div>

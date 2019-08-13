@@ -24,7 +24,7 @@
               <h3 style="color:rgb(146, 65, 80);">Who We Are</h3></div>
               <div class="panel-body">
 				<ul style="padding:5px 0px 5px 15px;">
-                	<li style="padding-top:5px;">The URI/PTFU/AAUP represents more than 500 Part-Time Faculty members who are employed at URI.</li>
+                	<li style="padding-top:5px;">The URI/PTFU represents more than 500 Part-Time Faculty members who are employed at URI.</li>
                     <li style="padding-top:5px;">We teach 30% of all undergraduate class sections at URI.</li>
                     <li style="padding-top:5px;">Our goal and mission is to promote and preserve the professional integrity and economic well being of all members of the URI Part-Time Faculty.</li>
                     <li style="padding-top:5px;">We aim to give voice to Part-Time Faculty and empower them as equal members of the URI community.</li>
