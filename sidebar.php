@@ -37,10 +37,10 @@
                 <a href="files/ptfu_welcome_letter.pdf" target="_blank">Welcome!</a>
             </li>
             <li>
-                <a href="index.php" target="_blank">JOIN US</a>
+                <a href="files/Join_Us.pdf" target="_blank">JOIN US</a>
                 </li>
                 <li>
-                    <ahref="files/CONSTITUTION.BY-LAWS_AMENDED.DECEMBER.2017.pdf" target="_blank">Constitution &amp; By-Laws</a>
+                    <a href="files/c&b_final.pdf" target="_blank">Constitution &amp; By-Laws</a>
             </li>
             <li>
                 <a href="files/URI_PTFU_contract_2017-2020.pdf" target="_blank">Contract 2017-2020</a>
@@ -76,7 +76,7 @@
                 <a href="http://www.uri.edu/" target="_blank">University of Rhode Island</a>
             </li>
             <li>
-                <a href="https://jobs.uri.edu/" target="_blank" style="margin-bottom:100%;">URI Lecturer & Full-Time Faculty <span style="padding-left: 8.5%">Positions Available</span></a>
+                <a href="https://jobs.uri.edu/" target="_blank" style="margin-bottom:100%;">URI Lecturer & Full-Time Faculty <div style="margin-top: -8%">Positions Available</div></a>
             </li>
         </ul>
     </div>

@@ -7,6 +7,9 @@
 			<td align="left">
 				<h2 class="top" style="color:rgb(146, 65, 80);"><em>PTFU NEWS</em></h2><br>
 				<h3 class="header" style="color:rgb(146, 65, 80); padding-bottom:10px;">NEWSLETTERS</h3>
+                <a href="newsletters/PTFU_Newsletter_Spring_2019.pdf" target="_blank">Spring 2019</a><br><br>
+                <a href="newsletters/e_news_oct_2017.pdf" target="_blank">Fall 2017</a><br><br>
+                <a href="newsletters/e_news_summer_2017.pdf" target="_blank">Summer 2017</a><br><br>
 				<a href="newsletters/e_news_fall_2016.pdf" target="_blank">Fall 2016</a><br><br>
 				<a href="newsletters/e_news_spring_2015.pdf" target="_blank">Spring 2015</a><br><br>
 				<a href="newsletters/e_news_fall_2015.pdf" target="_blank">Fall 2015</a><br><br>
@@ -23,7 +26,8 @@
 				<a href="newsletters/e_news_july_2009.pdf" target="_blank">July 2009</a> <br><br>
 				<a href="files/fact_sheet.pdf" target="_blank">January 2009</a><br><br>
 				<h3 class="header" style="color:rgb(146, 65, 80); padding-bottom:10px;">OTHER NEWS</h3>
-				<a href="othernews/arbitration_decision.pdf" target="_blank">Arbitration Decision - October 2014</a><br><br>
+                <a href="files/Williams_2017_Arbitration_Award.pdf" target="_blank">Arbitrators Decision - October 2014</a><br><br>
+				<a href="othernews/arbitration_decision.pdf" target="_blank">Arbitration Decision Summary - October 2014</a><br><br>
 				<a href="othernews/true_story_of_academia_2014_Salon.pdf" target="_blank">The shocking true story of academia in 2014</a><br><br>
 				<a href="http://rhodycigar.com/2014/10/16/adjunct-professors-feel-devalued-by-pay/" target="_blank">The Good 5 Cent Cigar - Adjunct Professors Feel Devalued By Pay</a><br><br>
 				<a href="othernews/highlights.pdf" target="_blank">Highlights - April 2014</a><br><br>

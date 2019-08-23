@@ -3,7 +3,7 @@
 		<p class="text-muted" style="text-align:center;">
 			THIS WEBSITE IS PROVIDED BY THE URI PTFU AS A SERVICE TO ITS MEMBERS. <br>
 			EVERY EFFORT IS MADE TO ENSURE THAT THE INFORMATION IS CURRENT AND ACCURATE.<br>
-			LAST UPDATED ON: AUGUST 12<sup>th</sup>, 2019.
+			LAST UPDATED ON: AUGUST 22<sup>nd</sup>, 2019.
 		</p>
 	</div>
 </div>
